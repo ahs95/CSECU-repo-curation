@@ -3,7 +3,7 @@ I'm just trying to bring all precious works my batchmates, maybe senior and juni
 
 I'm just curating all the works, I hold no copyright of most of these works. If you want to know more about licensing, please visit the respective repo or try contacting them.
 
-If you want your repo to be placed here, create an issue [mentioning details](https://github.com/maifeeulasad/CSECU-repo-curation/blob/master/.github/ISSUE_TEMPLATE/config.yml). I will take a look, after verifying it will be here.
+If you want your repo to be placed here, create an issue [mentioning details](https://github.com/maifeeulasad/CSECU-repo-curation/blob/master/.github/ISSUE_TEMPLATE/00-bug-issue.md). I will take a look, after verifying it will be here.
 
 
 
